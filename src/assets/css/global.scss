@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  height: 28px;
+  line-height: 28px;
+  background: #f65738;
+  border-radius: 6px;
+  color: white;
+  text-align: center;
+  box-sizing: border-box;
+  cursor: pointer;
+}
